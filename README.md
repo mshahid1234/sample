@@ -1,2 +1,2 @@
 # sample
-This is a Sample Test Project
+A Sample Test Project
