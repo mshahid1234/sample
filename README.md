@@ -1,5 +1,4 @@
 # sample
-Add one line
 Second line
 Third line
 Extra statement
